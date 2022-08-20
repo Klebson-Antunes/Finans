@@ -1,0 +1,36 @@
+/*Document css  ***********/
+
+
+/*Formatações gerais*/
+*{
+    margin: 0;
+    padding: o;
+}
+body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+/*area logo***************/
+.logo{
+   text-indent: -3000px;
+}
+.alinhamento{
+    align-items: baseline;
+    position: relative;
+    margin-top: -35px;
+    margin-left: 20px;
+}
+
+/*seções ***********/
+.caixa{
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5 ;
+}
+/* area rodapé*/
+footer p a{
+    margin: 5px 15px;
+    text-decoration: none;
+    
+   
+}
